@@ -30,7 +30,8 @@ ul {
 }
 
 h1 {
-    color: #F6BD60;
+    /* color: #F6BD60; */
+    color: darkorange;
     font-weight: 600;
 }
 #about-text {
